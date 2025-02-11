@@ -27,7 +27,7 @@ function Profile() {
         <DropdownMenuTrigger asChild className="cursor-pointer">
           <Image
             src={profilePicture ? profilePicture : "/user.png"}
-            alt="avatar"
+            alt={name}
             width={36}
             height={36}
             className="rounded-lg"
