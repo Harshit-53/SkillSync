@@ -21,7 +21,7 @@ function page() {
   // Redirect to login if not authenticated
   useEffect(() => {
     if (!loading && !isAuthenticated) {
-      router.push("https://jobfindr-q1cl.onrender.com/login");
+      router.push("https://skillsync-1vl3.onrender.com/login");
     }
   }, [isAuthenticated]);
 
