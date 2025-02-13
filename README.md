@@ -1,4 +1,4 @@
-# ✨ FullStack Job Portal App ✨
+# ✨ Full Stack Job Portal App ✨
 
 Highlights:
 
@@ -40,7 +40,7 @@ cd client
 npm install
 ```
 
-### Start the server
+### Start the client
 
 ```shell
 npm run dev
